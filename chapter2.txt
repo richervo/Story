@@ -1,1 +1,4 @@
 Understanding how to use git commands. Learned how to commit by using "git commit -m "(Comment about the commit)"" Learned how to add by using "sudo git add (files name)"
+
+
+This comment is being created in the BranchingAndMerging branch.

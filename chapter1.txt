@@ -1,1 +1,5 @@
-It was the best of times as well as one of the worst of times.
+It was the best of times as well as one of the worst of times. 
+
+
+Currently learning how to create new branches using the command line. We use the command git branch as well as the name of the branch we want to create a branch. 
+	Example: git branch BranchingAndMerging
